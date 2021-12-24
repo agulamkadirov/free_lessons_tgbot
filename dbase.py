@@ -5,11 +5,11 @@ import dbase_postgres
 # host = "localhost"
 # user = "postgres"
 # password = "postgres1361)"
-host = "ec2-54-235-79-88.compute-1.amazonaws.com"
-user = "otfosbntofyyvp"
-password = "a2d976e612a8e2536c77044f93202864050b409eef297808b91d39e12093e0cc"
+host = "ec2-54-145-139-208.compute-1.amazonaws.com"
+user = "gbfdbpsguyeieu"
+password = "6a0ea533355641bb1a987ba6462b5d1d507c45369c6e61b7704cea854051a2b5"
 
-db = dbase_postgres.DBasePosgreSQL(host, "d9hi2kqi6cgsl8", user, password)
+db = dbase_postgres.DBasePosgreSQL(host, "ddg4uurarc0nui", user, password)
 
 if __name__ == "__main__":
 	# bu yerda bilganingni qil :)
