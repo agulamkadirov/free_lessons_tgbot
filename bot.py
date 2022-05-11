@@ -60,5 +60,5 @@ class Bot(Client):
 	@classmethod
 	async def create_object(cls):
 		self = Bot()
-		await self.send_message_to_users()
+		# await self.send_message_to_users()
 		return self
